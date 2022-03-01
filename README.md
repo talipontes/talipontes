@@ -5,7 +5,7 @@
   
 - 🔭 I'm venturing into the universe of web dev
 - 🌱 I'm currently studying Python and JS
-- ⚡Oh, I'm also a chemist! I love science, technology and all the incredible possibilities these tools have!
+- 💜 Oh, I'm also a chemist! I love science, technology and all the incredible possibilities these tools have!
 </div>
 
   <div> 
