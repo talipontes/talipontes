@@ -7,8 +7,8 @@
 - 🌱 I'm currently studying Python and JS
 - ⚡Oh, I'm also a chemist! I love science, technology and all the incredible possibilities these tools have!
 </div>
+
   <div> 
- 
   <a href="https://www.linkedin.com/in/talitappontes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:talitappontes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div> 
